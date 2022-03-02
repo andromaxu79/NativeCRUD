@@ -1,0 +1,15 @@
+body {
+  min-height: 2000px;
+  position: relative;
+  margin-top: 50px;
+}
+
+.cari a {
+  display: inline-block;
+  float: left;
+  margin-right: 10px;
+}
+
+.cari {
+  margin-bottom: 20px;
+}
